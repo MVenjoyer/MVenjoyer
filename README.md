@@ -4,6 +4,8 @@
 
 Сейчас я в активном поиске работы / стажировки на позицию Python/Go-разработчика с гибридным графиком.
 
+Моё резюме: [доступно в этом репозитории](https://github.com/MVenjoyer/MVenjoyer)
+
 <!--
 **MVenjoyer/MVenjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
